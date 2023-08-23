@@ -1,0 +1,75 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.outerbody {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.logo {
+  width: 195px;
+}
+.outerBackground {
+  background-color: #eff2f5;
+  height: 550px;
+}
+
+.innerbox {
+  width: 400px;
+  height: 300px;
+  margin-top: 2%;
+  margin-left: 35%;
+  padding-top: 10px;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 10px;
+  /* box-shadow: 1px 1px 15px rgba(128, 128, 128, 0.219); */
+  background-color: #ffffffa6;
+}
+
+.emailbox {
+  padding: 10px;
+  width: 350px;
+  border-color: rgba(0, 0, 0, 0.191);
+  border-radius: 5px;
+  outline: rgba(255, 255, 255, 0.04);
+  border-width: 1px;
+}
+.passbox {
+  padding: 10px;
+  width: 350px;
+  border-color: rgba(10, 10, 10, 0.16);
+  border-radius: 5px;
+  outline: black;
+  border-width: 1px;
+}
+.mb-3 {
+  width: 350px;
+}
+
+.heading1 {
+  margin-bottom: 5%;
+  font-family: "Foldit", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-left: 30px;
+  font-size: 15px;
+}
+
+.btn-lg {
+  width: 350px;
+  font-family: "Foldit", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
